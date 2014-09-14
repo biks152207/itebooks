@@ -1,0 +1,20 @@
+{
+  "name": "itebooks",
+  "version": "0.0.0",
+  "description": "This is a nodejs module for it ebooks api.Using this module you can search,download,list books from http://it-ebooks.com",
+  "main": "it.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search",
+    "book",
+    "and",
+    "download"
+  ],
+  "author": "bikram basnet",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.42.0"
+  }
+}
